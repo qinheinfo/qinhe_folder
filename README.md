@@ -1,6 +1,8 @@
 # Starter folder
 
-# LLM Statement
+## LLM Statement
+
+In this paper, the large language model, ChatGPT 3.5, was used for multiple purposes. It helped to address code issues during data analysis. It was also used to improve language clarity and brainstorm ideas in the Abstract, Introduction, Data, and Limitations sections of the paper. The entire chat is available at: 
 
 ## Overview
 
